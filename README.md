@@ -9,6 +9,15 @@
 - Datetime
 - Warning
 
+# Objective of this Analysis:
+
+- To Check
+- Monthly Sales
+- Yearly Sales
+- Busiest Period in the day
+- Days with most transactions
+- Top20 products
+
 ## Exploratory Data Analysis includes:
 
 - Analysis insights in the dataset.

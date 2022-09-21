@@ -16,7 +16,7 @@
 - Yearly Sales Performance
 - Busiest Period in the day
 - Days with most transactions
-- Top20 products
+- Top20 Items Purchased
 
 ## Exploratory Data Analysis includes:
 

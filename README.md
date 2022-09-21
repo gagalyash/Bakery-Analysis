@@ -9,9 +9,8 @@
 - Datetime
 - Warning
 
-# Objective of this Analysis:
+# Objective of this Analysis To Check:
 
-- To Check
 - Monthly Sales Performance
 - Yearly Sales Performance
 - Busiest Period in the day

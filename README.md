@@ -6,6 +6,8 @@
 - Numpy
 - Matplotlib
 - Seaborn
+- Datetime
+- Warning
 
 ## Exploratory Data Analysis includes:
 

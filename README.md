@@ -12,8 +12,8 @@
 # Objective of this Analysis:
 
 - To Check
-- Monthly Sales
-- Yearly Sales
+- Monthly Sales Performance
+- Yearly Sales Performance
 - Busiest Period in the day
 - Days with most transactions
 - Top20 products

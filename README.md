@@ -1,6 +1,6 @@
-# Bakery-Analysis
+## Bakery-Analysis
 
-## Necessary Library
+### Necessary Library
 
 - Pandas
 - Numpy
@@ -9,7 +9,7 @@
 - Datetime
 - Warning
 
-# Objective of this Analysis To Check:
+### Objective of this Analysis To Check:
 
 - Monthly Sales Performance
 - Yearly Sales Performance
@@ -17,7 +17,7 @@
 - Days with most transactions
 - Top20 Items Purchased
 
-## Exploratory Data Analysis includes:
+### Exploratory Data Analysis includes:
 
 - Analysis insights in the dataset.
 - To understand the connection between the variables and to uncover the underlying structure
